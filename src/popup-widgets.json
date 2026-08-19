@@ -1,0 +1,233 @@
+[
+ {
+  "id": "popup-check-eligibility-1",
+  "group": "check-eligibility",
+  "variant": "Check Eligibility 1.0",
+  "spec": "Standard eligibility check",
+  "cta": "",
+  "w": 381.0,
+  "h": 651.0,
+  "pw": 381.0,
+  "ph": 651.19
+ },
+ {
+  "id": "popup-check-eligibility-2",
+  "group": "check-eligibility",
+  "variant": "Check Eligibility 1.0 Alt",
+  "spec": "Alternate eligibility check",
+  "cta": "",
+  "w": 381.0,
+  "h": 585.0,
+  "pw": 381.0,
+  "ph": 585.15
+ },
+ {
+  "id": "popup-merchant-emi",
+  "group": "merchant",
+  "variant": "Merchant EMI Plans",
+  "spec": "Popup with EMI plan options",
+  "cta": "",
+  "w": 390.0,
+  "h": 630.0,
+  "pw": 390.0,
+  "ph": 630.18
+ },
+ {
+  "id": "popup-1-0-main",
+  "group": "popup-1-0",
+  "variant": "Popup 1.0 Main",
+  "spec": "Main popup 1.0 screen",
+  "cta": "",
+  "w": 390.0,
+  "h": 496.0,
+  "pw": 390.0,
+  "ph": 496.28
+ },
+ {
+  "id": "popup-1-0-1",
+  "group": "popup-1-0",
+  "variant": "Popup 1.0 Variant 1",
+  "spec": "Popup 1.0 - variant 1",
+  "cta": "",
+  "w": 390.0,
+  "h": 496.0,
+  "pw": 390.0,
+  "ph": 496.28
+ },
+ {
+  "id": "popup-1-0-2",
+  "group": "popup-1-0",
+  "variant": "Popup 1.0 Variant 2",
+  "spec": "Popup 1.0 - variant 2",
+  "cta": "",
+  "w": 390.0,
+  "h": 496.0,
+  "pw": 390.0,
+  "ph": 496.28
+ },
+ {
+  "id": "popup-1-0-3",
+  "group": "popup-1-0",
+  "variant": "Popup 1.0 Variant 3",
+  "spec": "Popup 1.0 - variant 3",
+  "cta": "",
+  "w": 390.0,
+  "h": 496.0,
+  "pw": 390.0,
+  "ph": 496.28
+ },
+ {
+  "id": "popup-1-0-4",
+  "group": "popup-1-0",
+  "variant": "Popup 1.0 Variant 4",
+  "spec": "Popup 1.0 - variant 4",
+  "cta": "",
+  "w": 390.0,
+  "h": 496.0,
+  "pw": 390.0,
+  "ph": 496.28
+ },
+ {
+  "id": "popup-1-0-5",
+  "group": "popup-1-0",
+  "variant": "Popup 1.0 Variant 5",
+  "spec": "Popup 1.0 - variant 5",
+  "cta": "",
+  "w": 390.0,
+  "h": 496.0,
+  "pw": 390.0,
+  "ph": 496.28
+ },
+ {
+  "id": "popup-1-0-6",
+  "group": "popup-1-0",
+  "variant": "Popup 1.0 Variant 6",
+  "spec": "Popup 1.0 - variant 6",
+  "cta": "",
+  "w": 390.0,
+  "h": 496.0,
+  "pw": 390.0,
+  "ph": 496.28
+ },
+ {
+  "id": "popup-1-0-7",
+  "group": "popup-1-0",
+  "variant": "Popup 1.0 Variant 7",
+  "spec": "Popup 1.0 - variant 7",
+  "cta": "",
+  "w": 390.0,
+  "h": 496.0,
+  "pw": 390.0,
+  "ph": 496.28
+ },
+ {
+  "id": "popup-2-0-main",
+  "group": "popup-2-0",
+  "variant": "Popup 2.0 Main",
+  "spec": "Main popup 2.0 screen",
+  "cta": "",
+  "w": 390.0,
+  "h": 632.0,
+  "pw": 390.0,
+  "ph": 632.12
+ },
+ {
+  "id": "popup-2-0-1",
+  "group": "popup-2-0",
+  "variant": "Popup 2.0 Variant 1",
+  "spec": "Popup 2.0 - variant 1",
+  "cta": "",
+  "w": 390.0,
+  "h": 632.0,
+  "pw": 390.0,
+  "ph": 632.12
+ },
+ {
+  "id": "popup-2-0-2",
+  "group": "popup-2-0",
+  "variant": "Popup 2.0 Variant 2",
+  "spec": "Popup 2.0 - variant 2",
+  "cta": "",
+  "w": 390.0,
+  "h": 632.0,
+  "pw": 390.0,
+  "ph": 632.12
+ },
+ {
+  "id": "popup-2-0-3",
+  "group": "popup-2-0",
+  "variant": "Popup 2.0 Variant 3",
+  "spec": "Popup 2.0 - variant 3",
+  "cta": "",
+  "w": 390.0,
+  "h": 632.0,
+  "pw": 390.0,
+  "ph": 632.12
+ },
+ {
+  "id": "popup-2-0-4",
+  "group": "popup-2-0",
+  "variant": "Popup 2.0 Variant 4",
+  "spec": "Popup 2.0 - variant 4",
+  "cta": "",
+  "w": 390.0,
+  "h": 632.0,
+  "pw": 390.0,
+  "ph": 632.12
+ },
+ {
+  "id": "popup-2-0-5",
+  "group": "popup-2-0",
+  "variant": "Popup 2.0 Variant 5",
+  "spec": "Popup 2.0 - variant 5",
+  "cta": "",
+  "w": 390.0,
+  "h": 632.0,
+  "pw": 390.0,
+  "ph": 632.12
+ },
+ {
+  "id": "popup-2-0-6",
+  "group": "popup-2-0",
+  "variant": "Popup 2.0 Variant 6",
+  "spec": "Popup 2.0 - variant 6",
+  "cta": "",
+  "w": 390.0,
+  "h": 632.0,
+  "pw": 390.0,
+  "ph": 632.12
+ },
+ {
+  "id": "popup-2-0-7",
+  "group": "popup-2-0",
+  "variant": "Popup 2.0 Variant 7",
+  "spec": "Popup 2.0 - variant 7",
+  "cta": "",
+  "w": 390.0,
+  "h": 632.0,
+  "pw": 390.0,
+  "ph": 632.12
+ },
+ {
+  "id": "popup-3-1-0",
+  "group": "popup-3",
+  "variant": "Popup 3 - 1.0",
+  "spec": "Popup version 3, variant 1.0",
+  "cta": "",
+  "w": 390.0,
+  "h": 496.0,
+  "pw": 390.0,
+  "ph": 496.28
+ },
+ {
+  "id": "popup-3-2-0",
+  "group": "popup-3",
+  "variant": "Popup 3 - 2.0",
+  "spec": "Popup version 3, variant 2.0",
+  "cta": "",
+  "w": 390.0,
+  "h": 616.0,
+  "pw": 390.0,
+  "ph": 616.2
+ }
+]

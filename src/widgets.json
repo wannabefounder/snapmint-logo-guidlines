@@ -1,0 +1,211 @@
+[
+ {
+  "id": "emi-999-3m-viewplans",
+  "group": "v1-3-1",
+  "variant": "Single Plan",
+  "spec": "or ₹999 /month (3 months)",
+  "cta": "View Plans",
+  "w": 385.0,
+  "h": 105.0,
+  "pw": 384.36,
+  "ph": 65.13
+ },
+ {
+  "id": "emi-499-246",
+  "group": "v1-3-1",
+  "variant": "Multi Plan",
+  "spec": "₹499/month | 2/4/6 months EMI options",
+  "cta": "View Plans",
+  "w": 378.0,
+  "h": 84.0,
+  "pw": 377.37,
+  "ph": 58.91
+ },
+ {
+  "id": "emi-999-4m-viewplans",
+  "group": "v1-4-1",
+  "variant": "Single Plan",
+  "spec": "or ₹999 /month (4 months)",
+  "cta": "View Plans",
+  "w": 385.0,
+  "h": 105.0,
+  "pw": 384.36,
+  "ph": 65.13
+ },
+ {
+  "id": "emi-499-369",
+  "group": "v1-4-1",
+  "variant": "Multi Plan",
+  "spec": "₹499/month | 3/6/9 months EMI options",
+  "cta": "View Plans",
+  "w": 378.0,
+  "h": 84.0,
+  "pw": 377.37,
+  "ph": 58.91
+ },
+ {
+  "id": "emi-999-3m-buyonemi",
+  "group": "v2",
+  "variant": "Single Plan",
+  "spec": "or ₹999 /month (3 months)",
+  "cta": "Buy On EMI",
+  "w": 385.0,
+  "h": 105.0,
+  "pw": 384.36,
+  "ph": 65.13
+ },
+ {
+  "id": "emi-499-24",
+  "group": "v2",
+  "variant": "Multi Plan",
+  "spec": "₹499/month | 2/4 months EMI options",
+  "cta": "Buy On EMI",
+  "w": 378.0,
+  "h": 84.0,
+  "pw": 377.37,
+  "ph": 58.91
+ },
+ {
+  "id": "cashback-new-999-3m",
+  "group": "cashback",
+  "variant": "Single Plan",
+  "spec": "or ₹999 /month (3 months)",
+  "cta": "Buy On EMI",
+  "w": 384.0,
+  "h": 111.0,
+  "pw": 380.48,
+  "ph": 70.08
+ },
+ {
+  "id": "cashback-new-499-24",
+  "group": "cashback",
+  "variant": "Multi Plan",
+  "spec": "₹499/month | 2/4 months EMI options",
+  "cta": "Buy On EMI",
+  "w": 381.0,
+  "h": 90.0,
+  "pw": 380.68,
+  "ph": 64.77
+ },
+ {
+  "id": "cashback-999-3m",
+  "group": "cashback-no-tag",
+  "variant": "Single Plan",
+  "spec": "or ₹999 /month (3 months)",
+  "cta": "Buy On EMI",
+  "w": 384.0,
+  "h": 113.0,
+  "pw": 380.48,
+  "ph": 72.32
+ },
+ {
+  "id": "dp-1-1199-2m",
+  "group": "dp1-emi",
+  "variant": "2 months",
+  "spec": "₹1 now + ₹1199 /month (2 months)",
+  "cta": "View Plans",
+  "w": 370.0,
+  "h": 97.0,
+  "pw": 369.38,
+  "ph": 59.51
+ },
+ {
+  "id": "dp-1-799-3m",
+  "group": "dp1-emi",
+  "variant": "3 months",
+  "spec": "₹1 now + ₹799 /month (3 months)",
+  "cta": "View Plans",
+  "w": 370.0,
+  "h": 97.0,
+  "pw": 369.38,
+  "ph": 59.2
+ },
+ {
+  "id": "dp-0-1199-2m",
+  "group": "dp0-emi",
+  "variant": "2 months",
+  "spec": "₹0 now + ₹1199 /month (2 months)",
+  "cta": "View Plans",
+  "w": 370.0,
+  "h": 92.0,
+  "pw": 369.38,
+  "ph": 57.04
+ },
+ {
+  "id": "dp-0-799-3m",
+  "group": "dp0-emi",
+  "variant": "3 months",
+  "spec": "₹0 now + ₹799 /month (3 months)",
+  "cta": "View Plans",
+  "w": 370.0,
+  "h": 92.0,
+  "pw": 369.38,
+  "ph": 56.73
+ },
+ {
+  "id": "paylater-0-dp",
+  "group": "dp0-paylater",
+  "variant": "Standard",
+  "spec": "or ₹0 now, rest later — No Extra Cost",
+  "cta": "View Plans",
+  "w": 348.0,
+  "h": 111.0,
+  "pw": 347.42,
+  "ph": 69.02
+ },
+ {
+  "id": "paylater-0-dp-compact",
+  "group": "dp0-paylater",
+  "variant": "Compact",
+  "spec": "or ₹0 now, rest later at 0 Extra Cost",
+  "cta": "View Plans",
+  "w": 384.0,
+  "h": 88.0,
+  "pw": 378.88,
+  "ph": 57.28
+ },
+ {
+  "id": "paylater-1-dp",
+  "group": "dp1-paylater",
+  "variant": "Standard",
+  "spec": "or ₹1 now, rest later — No Extra Cost",
+  "cta": "View Plans",
+  "w": 348.0,
+  "h": 111.0,
+  "pw": 347.42,
+  "ph": 69.31
+ },
+ {
+  "id": "paylater-1-dp-compact",
+  "group": "dp1-paylater",
+  "variant": "Compact",
+  "spec": "or ₹1 now, rest later at 0 Extra Cost",
+  "cta": "View Plans",
+  "w": 381.0,
+  "h": 88.0,
+  "pw": 377.51,
+  "ph": 57.47
+ },
+ {
+  "id": "pay-in-3-sale-paylater",
+  "group": "dp19-paylater",
+  "variant": "Sale",
+  "spec": "Pay ₹19* now, rest later at 0 Extra Cost",
+  "cta": "Buy On EMI",
+  "w": 377.0,
+  "h": 98.0,
+  "pw": 372.29,
+  "ph": 58.75
+ },
+ {
+  "id": "pay-in-3-sale-emi",
+  "group": "dp19-emi",
+  "variant": "Sale",
+  "spec": "Pay ₹19* now, rest in 2 No Cost EMIs",
+  "cta": "Buy On EMI",
+  "w": 389.0,
+  "h": 107.0,
+  "pw": 372.47,
+  "ph": 62.56
+ }
+]
